@@ -1,0 +1,80 @@
+@charset 'utf-8';
+
+body {
+	background-color: Goldenrod;
+}
+
+#mis {
+	color: grey;
+}
+
+#mechanical {
+	
+	background: PaleVioletRed;
+	color: black;
+}
+
+#sum {
+
+	font-size: 36px;
+	text-decoration: underline;
+
+}
+
+#law {
+
+	
+	color: red;
+
+}
+
+
+nav {
+	
+	max-width: 80%;
+	background-color:  lime;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 24px;
+}
+
+#definition {
+	color: red;
+	
+}
+
+h1 {
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px
+}
+
+h2 {
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul {
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+		
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img {
+}
+
+div {
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
